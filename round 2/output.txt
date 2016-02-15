@@ -1,0 +1,62 @@
+
+ printing standard array 
+
+Hello
+Hi
+Salaam
+Bye
+Goodbye
+See
+you
+
+
+ printing result of strcpy on Hello and Hi 
+Hii 
+Hii 
+ printing the arrays after the previousfunction call 
+
+Hi
+Hi
+Salaam
+Bye
+Goodbye
+See
+you
+
+
+stringCompare of Good and Good 0
+ printing the arrays after the previousfunction call 
+
+Hi
+Hi
+Salaam
+Bye
+Goodbye
+See
+you
+
+
+
+stringPosition of m in Salaam -1
+ printing the arrays after the previousfunction call 
+
+Hi
+Hi
+Salaam
+Bye
+Goodbye
+See
+you
+
+
+stringLenth of 'Bonjour' for this case 0
+ printing the arrays after the previousfunction call 
+
+Hi
+Hi
+Salaam
+Bye
+Goodbye
+See
+you
+
